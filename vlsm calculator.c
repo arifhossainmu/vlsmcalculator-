@@ -2,7 +2,7 @@
 #include <math.h>
 
 /*=========================================================================
-    |=================Simple VLSM Calculator By Arif =================|
+    |=================VLSM Calculator By Arif =================|
     ========================================================================*/
 
 
@@ -22,7 +22,7 @@
 int main(int argc, char *argv[]) {
 
     printf("\t=======================================================================\n");
-    printf("\t================ Simple IP Subnet Calculator By Arif ================\n");
+    printf("\t================ VLSM Calculator By Arif ================\n");
     printf("\t=======================================================================\n\n");
     int IP1, IP2, IP3, IP4, CIDR, bitborrowed, bitremained, subnet, host, mask, blocksize;
     char class;
